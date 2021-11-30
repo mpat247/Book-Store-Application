@@ -1,7 +1,6 @@
 # Book Store Application
 
--
-A bookstore application implemented using JavaFX amongst others, for the group project assigned in *COE528 - Object Oriented Design*.
+A bookstore application implemented using JavaFX amongst others, for the group project assigned in *COE528 - Object Oriented  Eng Analysis and Design*.
 
 ## Application
 
