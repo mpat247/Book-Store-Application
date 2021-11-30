@@ -1,5 +1,5 @@
 # Book Store Application
-COE528 Final Project
+
 -
 A bookstore application implemented using JavaFX amongst others, for the group project assigned in *COE528 - Object Oriented Design*.
 
